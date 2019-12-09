@@ -1,0 +1,81 @@
+header {
+  background-color: #DBE9EE; }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0; }
+
+/*
+nav{
+   display: inline-block;
+   position: fixed;
+   text-transform: uppercase;
+   background-color: black;
+}
+*/
+body {
+  font-family: "Lato", sans-serif; }
+
+figure {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px; }
+
+figcaption {
+  text-align: center; }
+
+h1 {
+  text-align: center; }
+
+footer {
+  height: 100px;
+  background-color: #DBE9EE; }
+
+.authorise {
+  margin-right: 50px;
+  text-align: right; }
+
+/*.navig{
+  padding-left: 50px;
+  margin: 5px;
+  color: white;
+}*/
+.content {
+  width: 500px;
+  height: 400px; }
+
+.main {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg"); }
+
+.contact {
+  width: 30px;
+  margin: 10px; }
+
+.sasha {
+  text-align: right; }
+
+.lore {
+  display: flex;
+  flex-direction: space-between;
+  margin: 50px;
+  padding: 20px; }
+
+.first {
+  overflow: scroll;
+  width: 500px;
+  height: 150px;
+  border: 1px solid black;
+  margin: auto; }
+
+.second {
+  overflow: scroll;
+  width: 500px;
+  height: 150px;
+  border: 1px solid black;
+  margin: auto; }
+
+/*# sourceMappingURL=style.css.map */
